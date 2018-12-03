@@ -1,4 +1,4 @@
 Username: azureUser
-Credentials: **
+Credentials: ***
 AppName:temapApp5
 Description: testSync
